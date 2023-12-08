@@ -2,7 +2,7 @@
 
 namespace FrankiFixx\logistick;
 
-final class Logitick
+final class Logistick
 {
     public static function init(): self
     {
