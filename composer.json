@@ -1,7 +1,7 @@
 {
   "name": "frankii-fixx/logistick",
   "description": "Package for creation and validation logic expressions",
-  "minimum-stability": "master",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
