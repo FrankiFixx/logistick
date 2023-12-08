@@ -1,0 +1,25 @@
+{
+  "name": "frankii-fixx/logistick",
+  "description": "Package for creation and validation logic expressions",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ilya Lisitski",
+      "email": "ilyuxa252@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "FrankiFixx\\logistick\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "FrankiFixx\\logistick\\test\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.5"
+  }
+}
